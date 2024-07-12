@@ -1,0 +1,32 @@
+
+
+---Class Stats---
+first class survivors = 62.962963
+second class survivors = 47.282608
+third class survivors = 24.236252
+
+---Sex Stats---
+male survivors = 18.890814
+female survivors = 74.20382
+
+---Age Stats---
+Age 0-10 survivors = 59.375
+age 11-20 survivors = 38.260868
+Age 21-30 survivors = 36.52174
+age 31-40 survivors = 44.51613
+Age 41-50 survivors = 38.372093
+Age 51+ survivors = 34.375
+
+---Relative Stats---
+Has relatives survivors = 50.564972
+no relatives survivors = 30.353817
+
+---Price Stats---
+0-10 pound ticket survivors = 19.940475
+11-30 pound survivors = 43.30218
+30+ pound survivors = 58.11966
+
+---Port Stats---
+S port survivors = 33.695652
+C Port survivors = 55.357143
+Q Port survivors = 38.96104
